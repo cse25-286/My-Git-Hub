@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device, initail-scale=1.0">
+  <title>Contact Me</h1>
+  <nav>
+  </header>
+  <main>
+  <p> If you would like to get in touch, feel free to email me at <a href="mailto:example@example.com"> example@example.com</a>.</p>
+  </main>
+  </footer>
+  <p>&copy; 2025 Hope</p>
+  </body>
+  </html>
