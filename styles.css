@@ -121,7 +121,8 @@ border-radius: 10px;
 
 }
 
-main a [herf = mailto:"] {
-  color: ff5722:
+main a [href^= mailto:"] {
+  color: ff5722;
   font-weight:bold;
 }
+
